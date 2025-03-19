@@ -17,6 +17,8 @@ delegation-management
 
 **Executive Summary**
 
+![Image](https://github.com/user-attachments/assets/814192c8-43be-4243-8b1d-8a17f383c9a4)
+
 Text
 
 Generated with [Rytr](https://app.rytr.me)
